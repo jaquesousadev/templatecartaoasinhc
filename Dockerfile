@@ -111,7 +111,7 @@ RUN npm install --silent
 # Copying source files
 COPY . ./
 
-EXPOSE 3001
+EXPOSE 3002
 
 # Running the app
 CMD ["npm", "run", "dev"]
