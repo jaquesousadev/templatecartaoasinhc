@@ -29,7 +29,7 @@ export default function Teste() {
                   FORMULARIO DE ADESÃO
                 </h1>
                 <p className="text-xl font-semibold text-white text-center mb-20">
-                  Apenas para membros ASINHC.
+                  Apenas para Associados ASINHC.
                 </p>
               {/*Campos formulario */}  
               <div className='mb-2'>

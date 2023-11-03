@@ -42,7 +42,7 @@ export default function Pricing() {
           <div className="transition duration-500 ease-in-out transform scale-100 translate-x-0 translate-y-0 opacity-100">
             <div className="flex flex-col h-full p-6 space-y-4 transform bg-white border border-white border-opacity-50 shadow-2xl rounded-xl bg-opacity-90 md:space-y-6 md:p-8 xl:scale-110">
               <p className="absolute top-0 w-1/2 px-4 py-1 text-sm font-semibold text-center transform -translate-x-1/2 -translate-y-4 rounded-full left-1/2 bg-sky-500 text-sky-100">
-                Membros ASINHC
+                Associados ASINHC
               </p>
               <div className="flex items-center justify-center">
                 <h4 className="text-2xl font-semibold text-gray-800 md:text-4xl">
@@ -52,7 +52,7 @@ export default function Pricing() {
               <h5 className="text-xl font-semibold text-center text-gray-800">
                 <div>R$ 22,00 / mês</div>
                 <div className="mt-4 text-base font-normal text-gray-700">
-                  Apenas para Membros ASINHC
+                  Apenas para Associados ASINHC
                 </div>
               </h5>
               <hr className="border-t border-gray-300" />

@@ -8,7 +8,7 @@ export default function Demo() {
               Apoio
             </div>
             <h1 className="text-3xl font-semibold text-gray-800 md:text-5xl">
-            Mais um benefício para os membros ASINHC.
+            Mais um benefício para os associados ASINHC.
             </h1>
             <p className="mx-auto text-xl md:w-2/3 md:text-2xl">
               

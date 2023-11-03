@@ -75,14 +75,14 @@ export default function Header() {
                   Desconto
                 </a>
               </li>
-              <li>
+              {/*<li>
                 <a
                   href="#redesul"
                   className="text-lg text-white md:text-black hover:text-gray-300 md:hover:text-gray-700"
                 >
                   Rede
                 </a>
-              </li>
+              </li>*/}
               <li>
                 <a
                   href="formadesao"

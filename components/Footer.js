@@ -48,7 +48,7 @@ export default function Footer() {
         <p className="-mt-8 text-center text-gray-300">
           Made with ♡ by{' '}
           <a
-            href="https://saurish.com/?utm_source=uranium"
+            href="#"
             className="underline"
           >
             Jaqueline Sousa
